@@ -1,8 +1,8 @@
-# 💫About Me :\n
-Student at Faculty of IT dep. of SWE at University of Tripoli.\n
-Striving to be a project manager in tech\n
-Learning Flutter X Django\n
-About to do my graduation project in ML, thumbs crossed\n
+# 💫About Me :
+Student at Faculty of IT dep. of SWE at University of Tripoli.
+Striving to be a project manager in tech
+Learning Flutter X Django
+About to do my graduation project in ML, thumbs crossed
 
 
 ## 🌐Socials
